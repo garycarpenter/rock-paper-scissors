@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("Hello from console!");
 
 const playerText = document.querySelector("#playerText");
 const computerText = document.querySelector("#computerText");
